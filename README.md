@@ -54,7 +54,7 @@ friend-manager/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ranjitgautam828-eng/-friend-manager
+git clone https://github.com/ranjitgautam828-eng/friend-manager.git
 cd friend-manager
 ```
 
@@ -64,8 +64,9 @@ npm install
 ```
 
 3. Set up environment variables
-
-Set up your OWN MongoDB database with user and passport for this.
+```bash
+cp .env.example .env
+```
 
 Then open `.env` and fill in your values:
 ```
