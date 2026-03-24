@@ -54,7 +54,7 @@ friend-manager/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ranjitgautam828-eng/friend-manager.git
+git clone https://github.com/ranjitgautam828-eng/-friend-manager
 cd friend-manager
 ```
 
