@@ -64,9 +64,8 @@ npm install
 ```
 
 3. Set up environment variables
-```bash
-cp .env.example .env
-```
+
+Set up your OWN MongoDB database with user and passport for this.
 
 Then open `.env` and fill in your values:
 ```
